@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Microsoft Learn</string>
+    <string name="msg_microsoft">\@microsoftcaregh  |  www.microsoft.com </string>
+    <string name="msg_Developpeur">Developer Jean Fritz DUVERSEAU | Brain Dev </string>
+    <string name="connection_Wait">Patientez un moment ...</string>
+</resources>
